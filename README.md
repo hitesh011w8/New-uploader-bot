@@ -6,7 +6,7 @@
 
 ## 😎 Credit
 
-🥳 Credit Goes To [𓆩RAO𓆪𓆩SAHAB𓆪]([https://t.me/newstudent1885](https://t.me/RAO_SAHAB_JI_BOT))
+🥳 Credit Goes To [𓆩RAO𓆪𓆩SAHAB𓆪]([https://t.me/RAO_SAHAB_JI_BOT])
 
   
 ## 🔥 Commands
