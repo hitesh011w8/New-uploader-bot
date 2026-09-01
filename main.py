@@ -119,25 +119,30 @@ keyboard = InlineKeyboardMarkup(
                 [
                     InlineKeyboardButton("🇮🇳ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ🇮🇳" ,url=f"https://t.me/RAO_SAHAB_JI_BOT") ],
                     [
-                    InlineKeyboardButton("🔔ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ🔔" ,url="https://t.me/+qutXY5xbN0I4OWY1") ],
+                    InlineKeyboardButton("🔔ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ🌹" ,url="https://t.me/+qutXY5xbN0I4OWY1") ],
                     [
-                    InlineKeyboardButton("🦋ғᴏʟʟᴏᴡ ᴜs🦋" ,url="https://t.me/+UlYLt73QR0MxYzdl")                              
+                    InlineKeyboardButton("🦋ғᴏʟʟᴏᴡ ᴜs🌹" ,url="https://t.me/+UlYLt73QR0MxYzdl")                              
                 ],           
             ]
       )
     
 # Image URLs for the random image feature
 image_urls = [
+    "https://i.ibb.co/NSbPQ5n/file-3956.jpg",
+    "https://i.ibb.co/Z8R4z0g/file-3962.jpg",
+    "https://i.ibb.co/LtqjVy7/file-3958.jpg",
     "https://graph.org/file/996e7252ff3ffc679b3ea-ffc78c21ecf8396f98.jpg",
     "https://graph.org/file/439c62c6244b05050c93b-f02497c99181cdead5.jpg",
 ]
 random_image_url = random.choice(image_urls) 
 # Caption for the image
 caption = (
-        "**ʜᴇʟʟᴏ👋**\n\n"
-        "➠ **ɪ ᴀᴍ ᴛxᴛ ᴛᴏ ᴠɪᴅᴇᴏ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.**\n"
-        "➠ **ғᴏʀ ᴜsᴇ ᴍᴇ sᴇɴᴅ /radhe.\n"
-        "➠ **ғᴏʀ ɢᴜɪᴅᴇ sᴇɴᴅ /help."
+        "**𝐇𝐞𝐥𝐥𝐨 𝐃𝐞𝐚𝐫 👋!**\n\n"
+        "➠ **𝐈 𝐚𝐦 𝐚 𝐓𝐞𝐱𝐭 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫 𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐖𝐢𝐭𝐡 ♥️**\n"
+        "➠ **Can Extract Videos & PDFs From Your Text File and Upload to Telegram!**\n"
+        "➠ **For Guide Use Command /help 📖**\n\n"
+        "➠ **Use /radhe Command to Download From TXT File** 📄\n\n"
+        "➠ **𝐌𝐚𝐝𝐞 𝐁𝐲:** @RAO_SAHAB_JI_BOT"
 )
     
 # Start command handler
